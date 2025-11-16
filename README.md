@@ -31,8 +31,8 @@
   <br>
 
    <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Kings&size=35&duration=2500&pause=1000&color=#4e2224&center=true&width=435&lines=%E2%80%98There's+only+one+left,%E2%80%99'.;%E2%80%98How.+dubious%E2%80%99"/>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Kings&size=35&duration=2500&pause=1000&color=#4e2224&center=true&width=435&lines=%E2%80%98Theres+only+one+left%E2%80%99'.;%E2%80%98How+dubious%E2%80%99"/>
+   </p>
 
  
 
