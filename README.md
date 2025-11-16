@@ -31,7 +31,7 @@
   <br>
 
    <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Kings&size=35&duration=2500&pause=1000&color=194f2e&center=true&width=435&lines=%E2%80%98There's+only+one+left,%E2%80%99'.;%E2%80%98How...+dubious.%E2%80%99"/>
+<img src="https://readme-typing-svg.demolab.com?font=Kings&size=35&duration=2500&pause=1000&color=37432d&center=true&width=435&lines=%E2%80%98There's+only+one+left.+How...+dubious.%E2%80%99'.;%E2%80%98I+cast+necromancy!+Rise.%E2%80%99"/>
    </p>
 
  
