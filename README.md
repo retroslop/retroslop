@@ -16,7 +16,7 @@
 
   <br>  <br>
 
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=retroslop&color=2f0b0d&style=for-the-badge&label=++.++𝗿+𝗲+𝘁+𝗿+𝗼+𝘀++.++&base=2274"></img></p>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=retroslop&color=2f0b0d&style=for-the-badge&label=❝+retros+❞+&base=2274"></img></p>
  <br> 
 
 
