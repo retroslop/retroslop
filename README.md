@@ -23,8 +23,8 @@
   <br>
 
    <p align="center">          
-   $${\color{#381a18}OFFTAB \space MAJORITY \space OF \space THE \space TIME, \space SO \space W2I}$$ <br>
-    $${\color{#2f0b0d}DO \space NOT \space COPY \space OR \space SCREENSHOT \space MY \space SKINS \space THANKS.}$$ <br>
+   $${\color{#381a18}OFFTAB \space MAJORITY \space OF \space THE \space TIME,}$$ <br>
+    $${\color{#2f0b0d}SO \space WHISPER \space ME \space 2 \space GRAB \space MY \space ATTENTION.}$$ <br>
  <br>
 
 
