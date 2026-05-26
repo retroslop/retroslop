@@ -25,11 +25,7 @@ ${\text{\color{#300008} offtab　\color{#560317} majority　\color{#700421} of�
 
    <p align="center">          
    $${\color{#5FAB85}✦}$$ <br>
- <br>
-
-
-<h6 align>
-<sub><a href="https://pronouns.cc/yvoisen">prns.cc</a> $\small\color{#5FAB85}{\textsf{ㅤ𓏽ㅤ}}$ <a href="https://yvoisen.atabook.org">新book</a> $\small\color{#5FAB85}{\textsf{ㅤ𓏽ㅤ}}$ <a href="https://rentry.co/vaudegoth">rentry</a> 
+ <br> 
 
  
  
